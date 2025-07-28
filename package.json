@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "three": "^0.173.0"
+  },
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
